@@ -30,10 +30,12 @@ This project was part of Udacity Data Science project. This project will help me
 1. The feature that affects the pricing are number of bedrooms, number of accomadation, avialiblity of private rooms and neighborhood.
 2. Sentiment analysis
  * Negative Sentiment 
+ 
 "Day" is the most negative correlated word. This must have came up as the room was availabe for one day.
 "Kevin" a person name is also a negative word. This seems to be like a host name and this name must have came up in the comments many times which had lower review_score.
 "both" is not something that can be associated with sentiment analysis.
 * Positive Sentiment 
+
 "Days" as compared to "Day" means that have a range of days of availiblity had a high impact for higher score.
 "great" is often associated with a great service or great host
 "clean" was something that was expected, as a clean room recieves a positve score.

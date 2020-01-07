@@ -20,3 +20,8 @@ This project was part of Udacity Data Science project. This project will help me
 3.Investigate the popular times of the year for the Seattle Airbnb
 
 ## File Description
+ The jupyter notebook shows the analysis done on the seattle based Airbnb rentals data set. Data preparatoin, data cleaning and prediction is done on the listing data set. Sentiment analysis is done on the review dataset and finally a closer look on the popular times of the year is done using the calendar data set.
+ If we look into the seattle folder, it contains the data set from https://www.kaggle.com/airbnb/seattle. 
+* calendar.csv contains availability of listings and price
+* listing.csv contains information on listings
+* review.csv contains reviews by user
